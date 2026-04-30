@@ -1,0 +1,8 @@
+name: HomePlugin
+version: 1.0
+main: me.example.homeplugin.HomePlugin
+api-version: 1.20
+
+commands:
+  sethome:
+  home:
